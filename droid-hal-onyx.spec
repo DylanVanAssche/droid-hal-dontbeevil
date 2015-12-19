@@ -2,6 +2,6 @@
 %define device onyx
 %define vendor oneplus
 %define vendor_pretty OnePlus
-%define device_pretty Onyx 
+%define device_pretty X
 %define installable_zip 1
 %include rpm/dhd/droid-hal-device.inc
